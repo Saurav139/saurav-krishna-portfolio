@@ -1,6 +1,7 @@
 
 
 <h1 align="center">🌟 Saurav Krishna Portfolio</h1>
+<h3> Hi there! I'm a Data Engineering professional with 3+ YOE and a Data Science masters graduate from Northeastern Univerisity. Let's connect :) </h3>
 
 <p align="center">
   <a href="mailto:sauravkrishna1397@gmail.com" style="text-decoration: none;">
